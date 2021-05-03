@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ryderfang/ryderfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ryder, an iOS developer at Tencent Shanghai (PCG).
 
-Here are some ideas to get you started:
+<!-- ctrl+v ctrl+c -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently workng on iPhone QQ
+- 💻 Learn algorithm in part time at Leetcode
+- 📫 How to reach me: mailto ZnJheTkxNjZAZ21haWwuY29tCg==
+- 🎉 Happy to have a son born in 2021.03.09
+- 🌹 Love my wife Melody
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ryderfang&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
