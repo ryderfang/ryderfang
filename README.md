@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hi there 🤟
 
-I'm ryder, an iOS developer at Tencent Shanghai (PCG).
+I'm ryder, an iOS developer at Tencent Shanghai.
 
-<!-- ctrl+v ctrl+c -->
-
-- 🔭 I’m currently workng on iPhone QQ
-- 💻 Learn algorithm in part time at Leetcode
-- 📫 How to reach me: mailto ZnJheTkxNjZAZ21haWwuY29tCg==
-- 🎉 Happy to have a son born in 2021.03.09
-- 🌹 Love my wife Melody
+- 🔭 Working on iPhone QQ for camera & render
+- 💻 Write code in part time at Leetcode
+- 📫 Contact me by mailto ZnJheTkxNjZAZ21haWwuY29tCg==
+- 🎉 Happy to have a son `Yan'an` born in 2021.03.09
+- 🌹 Love my wife Melody
 
 ### GitHub Stats
 
