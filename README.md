@@ -2,11 +2,11 @@
 
 I'm ryder, an iOS developer at Tencent Shanghai.
 
-- 🔭 Working on iPhone QQ for camera & render
-- 💻 Write code in part time at Leetcode
-- 📫 Contact me by mailto ZnJheTkxNjZAZ21haWwuY29tCg==
-- 🎉 Happy to have a son `Yan'an` born in 2021.03.09
-- 🌹 Love my wife Melody
+- 🔭&emsp;Working on iPhone QQ for camera & render
+- 💻&emsp;Write code in part time at Leetcode
+- 📫&emsp;Contact me by mailto ZnJheTkxNjZAZ21haWwuY29tCg==
+- 🎉&emsp;Happy to have a son `Yan'an` born in 2021.03.09
+- 🌹&emsp;Love my wife Melody
 
 ### GitHub Stats
 
