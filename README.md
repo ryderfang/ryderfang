@@ -1,6 +1,6 @@
-Hi, I'm ryder.
+![Hello world! ](https://user-images.githubusercontent.com/22680912/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg)
 
----
+This is *Ryder Fang* from China.
 
 - :cn: I settle down with my family in Shanghai
 - :writing_hand: I code at [Leetcode](https://leetcode.com/ryderfang/) with [Swift](https://github.com/ryderfang/Algo-Swift)
